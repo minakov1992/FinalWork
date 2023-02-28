@@ -26,7 +26,7 @@
 2. Блок-схема алгоритма:
 > ![Scheme](Scheme.jpg)
 3. Добавил новый файл `README.md`
-4. Программа находится в ветке [`task`](/Final_task/Program.cs "Открыть решение")
+4. Программа находится в ветке [`task`](/FinalWork/Program.cs "Открыть решение")
 
 Код программы:
 ```cs
@@ -101,3 +101,6 @@ Console.Write(" -> ");
 string[] newArray = NewArray(array);
 PrintArray(newArray);
 ```
+
+Результат вывода в терминал:
+> ![OutputResults](OutputResults.png)
